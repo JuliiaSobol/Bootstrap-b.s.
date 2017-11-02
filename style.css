@@ -1,0 +1,42 @@
+body {
+    background: url("images/bg.jpg") no-repeat center center fixed;
+}
+
+ul.nav.justify-content-center {
+    background-color: white;
+}
+
+img {
+    max-width: 100%; 
+    height: auto;
+}
+
+.article1,
+.article2{
+    background-color: white;
+    font-size: 14px;
+}
+
+hr.separation {
+    width: 250px;
+}
+
+footer{
+    background-color: white;
+}
+
+.about-article {
+    background-color: white;
+}
+
+.blog {
+    width: 800px;
+    margin: auto;
+}
+ 
+.container.next {
+    width: 830px;
+    margin: auto;
+}
+
+
